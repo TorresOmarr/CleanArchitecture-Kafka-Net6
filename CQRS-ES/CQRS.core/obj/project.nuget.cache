@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "2AopuIl0+vq4Dyledp0jX/C67bMmfUbfIynPfn3xD+8qd7Jh0sM2x8U0xjUU1Ol1ELJJ3HCjCbaHR4KwUflGng==",
+  "dgSpecHash": "i75ZALLZU8q78On+6uBa/kbvjFEmRSmsN9le98SBLUh1cr9gJtRI6OMyt+40BxEpkJwg6dSZh+xQqMwJmd21IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JoseOmarTorresRios\\Desktop\\Cursos\\Microservices Udemy\\CQRS-ES\\CQRS.core\\CQRS.core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\JoseOmarTorresRios\\Desktop\\Cursos\\Microservices Udemy\\CQRS-ES\\CQRS.core\\CQRS.core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoseOmarTorresRios\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\JoseOmarTorresRios\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\JoseOmarTorresRios\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\JoseOmarTorresRios\\.nuget\\packages\\mongodb.bson\\2.16.1\\mongodb.bson.2.16.1.nupkg.sha512",
+    "C:\\Users\\JoseOmarTorresRios\\.nuget\\packages\\mongodb.driver\\2.16.1\\mongodb.driver.2.16.1.nupkg.sha512",
+    "C:\\Users\\JoseOmarTorresRios\\.nuget\\packages\\mongodb.driver.core\\2.16.1\\mongodb.driver.core.2.16.1.nupkg.sha512",
+    "C:\\Users\\JoseOmarTorresRios\\.nuget\\packages\\mongodb.libmongocrypt\\1.5.3\\mongodb.libmongocrypt.1.5.3.nupkg.sha512",
+    "C:\\Users\\JoseOmarTorresRios\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\JoseOmarTorresRios\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\JoseOmarTorresRios\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\JoseOmarTorresRios\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\JoseOmarTorresRios\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
